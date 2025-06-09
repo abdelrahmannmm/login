@@ -1,0 +1,1 @@
+console.log({name:'ABDELRAHAN MOHMAED',age:22,salary:"10k"});
